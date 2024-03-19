@@ -1,0 +1,12 @@
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\bin\Debug\net6.0\TaskBoard.Data.deps.json
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\bin\Debug\net6.0\TaskBoard.Data.dll
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\bin\Debug\net6.0\TaskBoard.Data.pdb
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.csproj.AssemblyReference.cache
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.AssemblyInfoInputs.cache
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.AssemblyInfo.cs
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.csproj.CoreCompileInputs.cache
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.dll
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\refint\TaskBoard.Data.dll
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\TaskBoard.Data.pdb
+D:\НЕЩАТА НА ТЕДИ\SOFT UNI\QA\QA Fundamentals\Manual Testing\TaskBoard\TaskBoard\TaskBoard.Data\obj\Debug\net6.0\ref\TaskBoard.Data.dll
